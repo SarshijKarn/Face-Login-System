@@ -1,6 +1,0 @@
-opencv-contrib-python
-numpy
-pillow
-pandas
-
-# head to readme for more information
